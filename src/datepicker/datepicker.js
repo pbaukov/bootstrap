@@ -34,7 +34,7 @@ angular.module('ui.bootstrap.datepicker', ['ui.bootstrap.dateparser', 'ui.bootst
   }
 
   // Modes chain
-  this.modes = ['day', 'month', 'year'];
+  this.modes = ['day', 'month', 'quarter', 'year'];
 
   [
     'customClass',
